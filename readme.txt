@@ -1,6 +1,4 @@
-# George Page Name Retrieval 
-The official development branch for the wordpress plugin located at https://wordpress.org/plugins/george-page-name-id-retrieval
-
+=== George Page Name Retrieval ===
 Contributors: phkcorp2005
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9674139
 Tags: george page post name page id title
@@ -10,7 +8,7 @@ Stable tag: 1.1
 
 George Page Name Retrieval adds needed functionality to wordpress developers for retrieving a post/page name, id, and title
 
-# Description 
+== Description ==
 
 You have a theme and you need to filter certain pages to either display uniquely or perform
 some customized operation. In order to make these custom modifications in your theme, you need
@@ -59,7 +57,7 @@ mention of your customization in the Credits.
 You can edit the george_display_shopp_cart_count() function to return a different text other
 than "Shopping cart"
 
-# Installation 
+== Installation ==
 
 To instal this plugin, follow these steps:
 
@@ -69,24 +67,24 @@ To instal this plugin, follow these steps:
 4. You are now ready to use the plugin. See the Admin page from Settings|George for
 tips and techniques on usage
 
-# Credits 
+== Credits ==
 
 We make honorable mention to anyone who helps make George a better plugin!
 
-# Contact 
+== Contact ==
 
 For support, go to https://github.com/patrickingle/george-page-name-id-retrieval/issues. You will require a free account on github.com.0
 
 Please contact phkcorp2005@gmail.com or visit the above forum with questions, comments, or requests.
 
-# Frequently Asked Questions 
+== Frequently Asked Questions ==
 
 Please do not be afraid of asking questions?<br>
 
 (There are no stupid or dumb questions!)
 
 
-# Changelog 
+== Changelog ==
 
 = 1.1 =
 * Added three new functions with shortcodes: george_get_pageid_by_permalink($permalink);, george_get_permalink_by_id($id);, and george_display_shopp_cart_count($url);
@@ -95,6 +93,6 @@ Please do not be afraid of asking questions?<br>
 = 1.0 =
 * Created
 
-# Upgrade Notice 
+== Upgrade Notice ==
 
 None
