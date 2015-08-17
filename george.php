@@ -3,7 +3,7 @@
 Plugin Name: George Page Name Retrieval
 Plugin URI: http://www.phkcorp.com?do=wordpress
 Description: Useful functions for getting post/page ID, title and name
-Version: 1.1
+Version: 1.1.1
 Author: PHK Corporation
 Author URI: http://www.phkcorp.com
 */
@@ -127,8 +127,7 @@ function displayGeorgeManagementPage()
      <legend><h2><u>Wordpress Development</u></h2></legend>
 <p><a href="http://www.phkcorp.com" target="_blank">PHK Corporation</a> is available for custom Wordpress development which includes development of new plugins, modification
 of existing plugins, migration of HTML/PSD/Smarty themes to wordpress-compliant <b>seamless</b> themes.</p>
-<p>You may see our samples at <a href="http://www.phkcorp.com?do=wordpress" target="_blank">www.phkcorp.com?do=wordpress</a></p>
-<p>Please email at <a href="mailto:phkcorp2005@gmail.com">phkcorp2005@gmail.com</a> or <a href="http://www.phkcorp.com?do=contact" target="_blank">www.phkcorp.com?do=contact</a> with your programming requirements.</p>
+<p>Please email at <a href="mailto:phkcorp2005@gmail.com">phkcorp2005@gmail.com</a></p>
     </fieldset>
   </div>
 <?php
