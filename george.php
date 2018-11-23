@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: George Page Name Retrieval
-Plugin URI: http://www.phkcorp.com?do=wordpress
+Plugin URI: https://wordpress.org/george-page-name-id-retrieval/
 Description: Useful functions for getting post/page ID, title and name
 Version: 1.1.1
-Author: PHK Corporation
-Author URI: http://www.phkcorp.com
+Author: PressPage Entertainment Inc.
+Author URI: https://presspage.info
 */
-/*  Copyright 2009  PHK Corporation  (email : phkcorp2005@gmail.com)
+/*  Copyright 2009-2018  PressPage Entertainment Inc.  (email : presspage.entertainment@gmail.com)
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 2 of the License, or
@@ -125,9 +125,9 @@ function displayGeorgeManagementPage()
     </fieldset>
     <fieldset class='options'>
      <legend><h2><u>Wordpress Development</u></h2></legend>
-<p><a href="http://www.phkcorp.com" target="_blank">PHK Corporation</a> is available for custom Wordpress development which includes development of new plugins, modification
+<p><a href="https://presspage.info" target="_blank">PressPage Entertainment Inc.</a> is available for custom Wordpress development which includes development of new plugins, modification
 of existing plugins, migration of HTML/PSD/Smarty themes to wordpress-compliant <b>seamless</b> themes.</p>
-<p>Please email at <a href="mailto:phkcorp2005@gmail.com">phkcorp2005@gmail.com</a></p>
+<p>Please email at <a href="mailto:presspage.entertainment@gmail.com">presspage.entertainment@gmail.com</a></p>
     </fieldset>
   </div>
 <?php

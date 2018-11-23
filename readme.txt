@@ -73,9 +73,9 @@ We make honorable mention to anyone who helps make George a better plugin!
 
 == Contact ==
 
-For support, go to https://github.com/patrickingle/george-page-name-id-retrieval/issues. You will require a free account on github.com.0
+For support, go to https://github.com/presspage2018/george-page-name-id-retrieval/issues. You will require a free account on github.com.0
 
-Please contact phkcorp2005@gmail.com or visit the above forum with questions, comments, or requests.
+Please contact presspage.entertainment@gmail.com or visit the above forum with questions, comments, or requests.
 
 == Frequently Asked Questions ==
 
