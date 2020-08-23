@@ -3,7 +3,7 @@
 Plugin Name: George Page Name Retrieval
 Plugin URI: https://wordpress.org/george-page-name-id-retrieval/
 Description: Useful functions for getting post/page ID, title and name
-Version: 1.1.1
+Version: 1.1.2
 Author: PressPage Entertainment Inc.
 Author URI: https://presspage.info
 */
@@ -75,7 +75,8 @@ function george_display_shopp_cart_count($url) {
 function addGeorgeManagementPage()
 {
     // Add a new submenu under Options:
-    add_options_page('George', 'George', 8, 'george', 'displayGeorgeManagementPage');
+    // add_options_page( string $page_title, string $menu_title, string $capability, string $menu_slug, callable $function = '', int $position = null )
+    add_options_page('George', 'George','administrator', 'george', 'displayGeorgeManagementPage');
 }
 // Display the admin page.
 function displayGeorgeManagementPage()
